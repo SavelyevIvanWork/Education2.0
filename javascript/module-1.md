@@ -1,9 +1,9 @@
-#Vanilla JS
-##Module 1
+# Vanilla JS
+## Module 1
 
 В первом модуле познакомимся с основами язака Java Script.
 
-###Материалы для изучения:
+### Материалы для изучения:
 - [Переменные](https://learn.javascript.ru/variables)
 - [Типы данных](https://learn.javascript.ru/types)
 - [Преобразование типов](https://learn.javascript.ru/type-conversions)

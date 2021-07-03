@@ -1,4 +1,4 @@
-#Education
+# Education
 
 - [Система контроля версий Git](./git/git.md)
 - [Vanilla JS](./javascript/js.md)
